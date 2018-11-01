@@ -250,12 +250,12 @@ button:hover {
 
 #header .logo {
     margin-top: 51px;
-    float: left;
+    /*float: left;*/
 }
 
 #header .contacts {
     margin-top: 25px;
-    float: right;
+    /*float: right;*/
     text-align: right;
 }
 #header .contacts p {
@@ -281,7 +281,7 @@ button:hover {
 #navigation {
     height: 43px;
     background: transparent url("img/bgnavi.png") repeat-x;
-    claer: both;
+    /*claer: both;*/
 }
 #navigation>ul {
     height: 40px;
